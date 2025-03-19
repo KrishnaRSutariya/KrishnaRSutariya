@@ -1,6 +1,6 @@
 # Hi, I'm Krishna Sutariya! 👋🏼
 
-I'm a Fullstack Developer with over 1.5 years of experience in IT.
+I'm a Fullstack Developer with over 4 years of experience in IT.
 
 ## 🚀 Skills
 
@@ -12,7 +12,7 @@ I'm a Fullstack Developer with over 1.5 years of experience in IT.
 
 👉 AWS(Lambda, S3, APIGateway), GCP(Cloud Functions, Buckets), Docker etc... .
 
-👉 Git, Jira
+👉 Git, Jira, Bitbucket
 
 ## 📞 Contact Me
 

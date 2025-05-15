@@ -1,33 +1,74 @@
-# Hi, I'm Krishna Sutariya! 👋🏼
+# 👋 Hi, I'm Krishna Sutariya
 
-I'm a Fullstack Developer with over 4 years of experience in IT.
+🚀 Full Stack Developer | UI/UX Designer | Cloud Solutions Architect  
+📍 Surat, Gujarat, India  
+📧 krishnar.sutariyarskd154@gmail.com | developer.krishnasutariya24@gmail.com  
+📞 +91 82641 70570  
+🌐 [Portfolio Website](https://krishna-sutariya.vercel.app)
 
-## 🚀 Skills
+---
 
-👉 Node.js/Typescript, React.js/Next.js, Express.js/Nest.js, GraphQL.
+## 🧑‍💻 About Me
 
-👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind, ANTD, Chakra UI).
+I'm a passionate Full Stack Developer with over 4 years of experience in building robust and scalable web applications. I specialize in creating user-friendly interfaces and delivering seamless user experiences across platforms. My expertise spans from frontend design to backend development and cloud deployment.
 
-👉 SQL(Postgres, MySql, MsSql, AWS RDS), NoSQL(MongoDB, DynamoDB).
+---
 
-👉 AWS(Lambda, S3, APIGateway), GCP(Cloud Functions, Buckets), Docker etc... .
+## 🛠️ Skills
 
-👉 Git, Jira, Bitbucket
+### Frontend Development
+- **Languages:** HTML5, CSS3, JavaScript
+- **Frameworks/Libraries:** React.js, Next.js, Vue.js
+- **Design:** UI/UX Design, Responsive Web Design
 
-## 📞 Contact Me
+### Backend Development
+- **Languages:** Node.js
+- **Frameworks:** Express.js
+- **Databases:** MongoDB, MySQL
 
-📧 Email: [Click Here](mailto:krishnar.sutariyarskd154@gmail.com)
+### DevOps & Cloud
+- **Platforms:** AWS, Vercel
+- **Tools:** Docker, Git, GitHub
 
-💼 LinkedIn: [@KrishnaSutariya](https://www.linkedin.com/in/krishna-r-sutariya-733349219)
+### Others
+- **Version Control:** Git, GitHub
+- **Project Management:** Jira, Trello
 
-##
+---
 
-I'm interested in working with you in the long term because of my experience in full-stack development. I can think from a user perspective as a designer and I can think as a developer to make a structured project with less load time. I believe I can add real value to the project. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
+## 💼 Services Offered
 
-## 🤝 Let's work together!
+- Web Design & Development
+- Cloud Services and Deployment
+- Web Application Development
+- Web Security and Testing
+- Migration and Upgrades
+- E-Commerce Development
+- SEO Optimization
 
-If you're interested in working with me or have any further questions, please don't hesitate to contact me using the information provided above. I look forward to hearing from you!
+---
 
-Thanks,
+## 📂 Portfolio
 
-Krishna Sutariya
+Here are some of my recent projects:
+
+- **Shopee:** E-commerce platform with seamless user experience.
+- **GooTravel:** Travel booking website with intuitive UI.
+- **Hotella:** Hotel reservation system with real-time availability.
+- **Reflexi:** Portfolio website showcasing creative works.
+
+Explore more at [krishna-sutariya.vercel.app](https://krishna-sutariya.vercel.app)
+
+---
+
+## 📫 Contact Me
+
+I'm open to freelance opportunities and collaborations. Feel free to reach out!
+
+📧 Email: krishnar.sutariyarskd154@gmail.com | developer.krishnasutariya24@gmail.com  
+📞 Phone: +91 82641 70570  
+🌐 Website: [krishna-sutariya.vercel.app](https://krishna-sutariya.vercel.app)
+
+---
+
+> "Integrity and seamlessly connect ideas of people." – Krishna Sutariya

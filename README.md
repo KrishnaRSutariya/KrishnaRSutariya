@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Full Stack Developer with over 1.5+ years of experience in building robust and scalable web applications. I specialize in creating user-friendly interfaces and delivering seamless user experiences across platforms. My expertise spans from frontend design to backend development and cloud deployment.
+I'm a passionate Full Stack Developer with over 3+ years of experience in building robust and scalable web applications. I specialize in creating user-friendly interfaces and delivering seamless user experiences across platforms. My expertise spans from frontend design to backend development and cloud deployment.
 
 ---
 

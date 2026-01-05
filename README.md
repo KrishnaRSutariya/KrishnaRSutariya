@@ -90,7 +90,7 @@ I’m open to:
 - AI-driven product development  
 - Amazon Ads / SP API projects  
 
-📧 Email: krishnar.sutariyarskd154@gmail.com | developer.krishnasutariya24@gmail.com 
+📧 Email: krishnar.sutariyarskd154@gmail.com | developer.krishnasutariya24@gmail.com  
 🔗 Portfolio: https://krishna-sutariya.vercel.app  
 
 ---
